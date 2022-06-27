@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = mathieuhirtzpro@gmail.com
+	name = HIRTZ Mathieu
